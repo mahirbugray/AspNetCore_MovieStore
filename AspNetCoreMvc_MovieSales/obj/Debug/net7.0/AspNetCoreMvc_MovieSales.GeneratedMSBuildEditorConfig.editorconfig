@@ -1,0 +1,89 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AspNetCoreMvc_MovieSales
+build_property.RootNamespace = AspNetCoreMvc_MovieSales
+build_property.ProjectDir = C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_MovieSales\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\AspNetCoreMvc_MovieSales
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Customer/ConfirmAddress.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ29uZmlybUFkZHJlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Customer/ConfirmPayment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ29uZmlybVBheW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Customer/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Movie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Movie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Movie/Local.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcTG9jYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Movie/Populer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcUG9wdWxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Sepet/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VwZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Shared/Components/Genre/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcR2VucmVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sx6iakgdqx
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/AspNetCoreMvc_MovieSales/Views/Shared/_LayoutMovie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNb3ZpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-qj15soq72b

@@ -1,0 +1,53 @@
+﻿
+@{
+    Layout = "_LayoutMovie";
+    ViewData["Title"] = "Index";
+}
+@model List<Movie>
+
+<h2>Filmler</h2>
+
+@if (Model.Count() > 0)
+{
+    <div class="row">
+        @foreach (var film in Model)
+        {
+            <div class="col-md-3">
+                <div class="card mb-3">
+                    <form asp-controller="Sepet" asp-action="Ekle" method="get">
+                    <input type="hidden" name="Id" value="@film.Id">
+                    <div class="card-header text-center">
+                        <h5 class="card-title">@film.Name</h5>
+                    </div>
+                    <a href="/Movie/Details/@film.Id">
+                        <img src="@film.ImageUrl" class="card-img-top" alt="@film.Name" title="@film.Name">
+                    </a>
+                    <div class="card-body text-center">
+                        <span class="card-text">@string.Format("{0:C2}", @film.Price)</span>
+                        <input name="Adet" type="number" value="1" min="1" max="@film.Stock" >
+                    </div>
+                    <div class="card-footer text-center">
+                        <button type="submit" class="btn btn-primary">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart-plus-fill" viewBox="0 0 16 16">
+                                <path d="M.5 1a.5.5 0 0 0 0 1h1.11l.401 1.607 1.498 7.985A.5.5 0 0 0 4 12h1a2 2 0 1 0 0 4 2 2 0 0 0 0-4h7a2 2 0 1 0 0 4 2 2 0 0 0 0-4h1a.5.5 0 0 0 .491-.408l1.5-8A.5.5 0 0 0 14.5 3H2.89l-.405-1.621A.5.5 0 0 0 2 1H.5zM6 14a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm7 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zM9 5.5V7h1.5a.5.5 0 0 1 0 1H9v1.5a.5.5 0 0 1-1 0V8H6.5a.5.5 0 0 1 0-1H8V5.5a.5.5 0 0 1 1 0z" />
+                            </svg>
+                            Sepete At
+                        </button>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <div class="alert alert-danger" role="alert">
+        <strong>Film yok! </strong> İstenilen türde film bulunmamaktadır.
+    </div>
+}
+
+@*@section GenreMenu{
+    @await Component.InvokeAsync("Genre")
+}*@
+

@@ -1,0 +1,11 @@
+﻿@model List<GenreViewModel>
+
+<h2>Film Türleri</h2>
+<div class="list-group">
+    <a class="list-group-item @(ViewBag.SelectedGenreId==null?"active":"")" href="/Movie/Index">Tüm Filmler</a>
+    @foreach (var item in Model)
+    {
+        <a class="list-group-item @(ViewBag.SelectedGenreId==item.Id.ToString()?"active":"")" href="/Movie/Index/@item.Id">@item.Name</a>
+    }
+    @*    var sonuc = şart ? doğruysa burası : yanlışsa burası*@
+</div>
