@@ -1,4 +1,3 @@
-
 # AspNet Core Movie Store
 TR -> Asp.Net Core 7 ile Film Satışı üzerine bir Web sitesi geliştirdim. Bu web sitesinde filmler üzerine gerekli CRUD işlemlerini yaptık.
 
