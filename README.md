@@ -4,17 +4,18 @@ TR -> Asp.Net Core 7 ile Film Satışı üzerine bir Web sitesi geliştirdim. Bu
 ENG -> I developed a Web site on Movie Sales with Asp.Net Core 7. We have done the necessary CRUD operations on movies on this website.
 ## Kullanılan Teknolojiler / Used Technologies
 
+- Katmanlı Mimari / Onion Pattern
 - Asp.Net Core 7
-
-- Mapping
-
-- ViewComponents
-
-- ViewModels
-
-- T-Sql
-
+- Ajax
+- N Tier Architecture (Entity Layer, Service Layer, DataAccess Layer, UI Layer)
+- Identity Authorization
+- Entity Framework Core
+- MS Sql
+- Generic Repository
+- Unit Of Work
 - LINQ
+- JavaScript
+- Bootstrap
 ## Usage/Examples
 ``` javascript
 {
